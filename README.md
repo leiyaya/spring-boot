@@ -19,5 +19,3 @@
 
 * [IMOOCSpider 简易网络爬虫](./IMOOCSpider/)
 
-## 最后  
-如果帮助到你，请点击右上角star，谢谢！
